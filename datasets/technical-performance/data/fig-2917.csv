@@ -1,0 +1,7 @@
+driver,type,claim_frequency_per_milliom_miles
+Waymo,Property damage,3.58
+Swiss Re overall driving population,Property damage,3.07
+Latest-generation HDVs,Property damage,2.47
+Swiss Re overall driving population,Bodily injury,1.02
+Latest-generation HDVs,Bodily injury,0.82
+Waymo,Bodily injury,0.09
