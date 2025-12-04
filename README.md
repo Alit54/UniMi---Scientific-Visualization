@@ -39,7 +39,7 @@ For each area of interest, the most important aspects were analyzed.
 
 #### Responsible AI
 
-1. [SIMO]] Hallucination rate (horizontal bar chart of 328)
+1. [SIMO] Hallucination rate (horizontal bar chart of 328)
 1. Percentage of organizations who experienced AI incidents (horizontal stacked bar chart of 334)
 1. [SIMO] Number of AI incidents by organization (horizontal bar chart of 335)
 1. [SIMO] AI related types of incidents in the past two years (horizontal bar chart of 339)
